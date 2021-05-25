@@ -15,7 +15,11 @@ Grades_ErsinAksar.py
 InterestRate_ErsinAksar.py
 
 Payroll_ErsinAksar.py
+
 Quadratic_ErsinAksar.py
+
 count.txt
+
 Count_ErsinAksar.py
+
 BodyMassIndex_ErsinAksar.py
