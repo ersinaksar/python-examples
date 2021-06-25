@@ -1,5 +1,5 @@
 sayi = int(input("Enter a integer between 0 and  1000 "))
-if(sayi<=0 and sayi>=1000):
+if(sayi<=0 or sayi>=1000):
     print("Wrong input")
 else:
     a = sayi // 100
